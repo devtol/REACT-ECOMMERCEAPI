@@ -1,1 +1,4 @@
+#노드 모듈
 /node_modules
+#기타 설정들
+.env
